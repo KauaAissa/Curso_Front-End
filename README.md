@@ -30,11 +30,7 @@ Durante o curso, você terá a oportunidade de trabalhar em diversos projetos pr
 
 ## Tecnologias Utilizadas
 
-- **HTML**
-- **CSS**
-- **JavaScript**
-- **React**
-- **TypeScript**
+[![My Front-end Skills](https://skillicons.dev/icons?i=html,css,js,react,ts,&perline=13)](#)
 
 ## Como Acompanhar
 
